@@ -23,6 +23,7 @@
 
   <!-- 👇 هنا ضيف SDL -->
   <a href="https://libsdl.org/" target="_blank" rel="noreferrer">
-    <img src="https://libsdl.org/media/SDL_logo.png" alt="SDL" width="40" height="40"/>
+    <img src="https://i.ibb.co/spdmq4NL/Screenshot-from-2026-02-22-15-24-26-removebg-preview.png" alt="SDL" width="40" height="40"/>
   </a>
 </p>
+
